@@ -1,6 +1,3 @@
 hello world
-<<<<<<< HEAD
-Oh no what's going to happen
-=======
 I hope this makes it
->>>>>>> cbab8ae3a69bcc301393132792700399699cbcb0
+Oh no what's going to happen
