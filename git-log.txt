@@ -1,3 +1,37 @@
+commit 8b9e1e65832e9b5b5c66ab056af9ec824e73fc3a
+Author: Kelly Pederson <Kelly.Pederson@gmail.com>
+Date:   Thu Jun 12 15:11:34 2014 -0600
+
+    yay
+
+commit 58da4d9644556509a7ba8585d79f7ba4468c6a05
+Merge: 3f51c83 cbab8ae
+Author: Kelly Pederson <Kelly.Pederson@gmail.com>
+Date:   Thu Jun 12 15:07:19 2014 -0600
+
+    Merge branch 'master' of github.com:ShelllKell/basic-git
+    
+    Conflicts:
+    	hello.txt
+
+commit 3f51c83ec0ca34e75fa7275d2202480ff8417bbf
+Author: Kelly Pederson <Kelly.Pederson@gmail.com>
+Date:   Thu Jun 12 14:57:55 2014 -0600
+
+    message
+
+commit cbab8ae3a69bcc301393132792700399699cbcb0
+Author: Shelby Kelly <shelby.kelly@colorado.edu>
+Date:   Thu Jun 12 14:54:58 2014 -0600
+
+    Last update
+
+commit 434434b72a5f460879e7c21a8042fdc701e524e2
+Author: Shelby Kelly <shelby.kelly@colorado.edu>
+Date:   Thu Jun 12 14:28:23 2014 -0600
+
+    coolbeans
+
 commit c7b3081e0067005b06238d712a6115ee88454282
 Author: Shelby Kelly <shelby.kelly@colorado.edu>
 Date:   Thu Jun 12 14:22:30 2014 -0600
